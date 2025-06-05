@@ -35,7 +35,7 @@ Inclui também **duas imagens** fornecidas pela **NASA**, com legendas para enri
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5 (sem CSS ou JavaScript)
-- Estruturação semântica com elementos padrão (`<h1>`, `<p>`, `<em>`, `<strong>`, `<img>`, `<figcaption>`, etc.)
+- Estruturação semântica com elementos padrão (`<h1>`, `<h2>`, `<p>`, `<em>`, `<strong>`, `<img>`, etc.)
 
 ---
   
